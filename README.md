@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, , we are AutidTech 👋
 
-<!--
-**autid-tech/autid-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are a team of engineers and analysts specialized in blockchain technology and business analytics with wide experience on crypto market. Our core team is famous for its market reports made and technical evaluation of Crypto projects.
+ 
+We started as an Audit & Development firm for smart contracts in the beginning of the ICO rush and expanded our expertise to the market researches and exchange analytics, security and technical valuation of the projects.
 
-Here are some ideas to get you started:
+### Services we are providing:
+- Full Smart Contract security audit.
+- KYC Verification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Our statistics:
+- 🚀 More than 250 public Smart Contract audits.
+
+### Official links:
+- Website: https://www.autid-tech.ml
+- Telegram: https://t.me/autid_tech
+- Github: https://github.com/autid-tech
+
+### Request an audit:
+- https://www.autid-tech.ml
+- contact@autid-tech.ml
+- https://t.me/autid_tech
