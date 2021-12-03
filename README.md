@@ -1,4 +1,4 @@
-# Hi there, , we are AutidTech 👋
+# Hi there, we are AutidTech 👋
 
 We are a team of engineers and analysts specialized in blockchain technology and business analytics with wide experience on crypto market. Our core team is famous for its market reports made and technical evaluation of Crypto projects.
  
